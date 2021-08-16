@@ -1,0 +1,8 @@
+daiquiri==3.0.0
+greenlet==1.1.1
+pip==21.2.4
+psycopg2==2.9.1
+python-json-logger==2.0.1
+setuptools==57.4.0
+SQLAlchemy==1.4.22
+wheel==0.37.0

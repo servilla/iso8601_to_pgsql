@@ -1,0 +1,35 @@
+name: iso8601
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - ca-certificates=2021.5.30
+  - daiquiri=3.0.0
+  - greenlet=1.1.1
+  - krb5=1.19.2
+  - ld_impl_linux-64=2.36.1
+  - libedit=3.1.20191231
+  - libffi=3.3
+  - libgcc-ng=11.1.0
+  - libgomp=11.1.0
+  - libpq=13.3
+  - libstdcxx-ng=11.1.0
+  - ncurses=6.2
+  - openssl=1.1.1k
+  - pip=21.2.4
+  - psycopg2=2.9.1
+  - python=3.9.6
+  - python-json-logger=2.0.1
+  - python_abi=3.9
+  - readline=8.1
+  - setuptools=57.4.0
+  - sqlalchemy=1.4.22
+  - sqlite=3.36.0
+  - tk=8.6.10
+  - tzdata=2021a
+  - wheel=0.37.0
+  - xz=5.2.5
+  - zlib=1.2.11
+prefix: /home/servilla/anaconda3/envs/iso8601
