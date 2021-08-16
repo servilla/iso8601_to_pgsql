@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+:Mod: config
+
+:Synopsis:
+
+:Author:
+    servilla
+
+:Created:
+    8/16/2021
+"""
+
+
+class Config:
+
+    DB_USER = "Database User"
+    DB_PW = "Database Password"
+    DB_HOST = 'Database Host'
+    DB_DB = 'Database Name'
+    DB_DRIVER = 'postgresql+psycopg2'
